@@ -7,7 +7,7 @@ This repository contains two distinct datasets used for device authentication an
 
 <br>
 
-Due to file size constraints, the full raw and partially processed protocol-level data are not stored directly in this repository. You can download the data from the following link: [Download link]([https://dalu-my.sharepoint.com/:f:/g/personal/xn394804_dal_ca/EploaLsr_D1OjS4jiAbLbpEBXwqIsrReWKmG99Yc9z4rqg?e=4sm12e](https://dalu-my.sharepoint.com/:f:/g/personal/xn394804_dal_ca/IgDjMGdICFGETJ5HUGCjhG5EAWZFOyWvc_BtQGpQmuGOVQw?e=TBEj8R)).
+Due to file size constraints, the full raw and partially processed protocol-level data are not stored directly in this repository. You can download the data from the following link: [Download link](https://dalu-my.sharepoint.com/:f:/g/personal/xn394804_dal_ca/IgDjMGdICFGETJ5HUGCjhG5EAWZFOyWvc_BtQGpQmuGOVQw?e=Oqt4wA).
 
 
 ## Dataset Structure
